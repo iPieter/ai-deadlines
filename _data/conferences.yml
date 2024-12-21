@@ -10,6 +10,20 @@
   end: 2025-07-25
   sub: ML
 
+- title: EMNLP
+  year: 2025
+  id: emnlp25
+  link: https://2025.emnlp.org
+  deadline: unknown
+  timezone: UTC-12
+  place: Suzhou, China
+  date: November 5-November 9, 2025
+  start: 2025-11-05
+  end: 2025-11-09
+  hindex: 112
+  sub: NLP
+  note: All submissions should be done through ARR. More info <a href="https://2025.aclweb.org/calls/main_conference_papers/">here</a>.
+
 - title: ICML
   year: 2025
   id: icml25
