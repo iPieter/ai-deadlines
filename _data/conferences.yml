@@ -1,3 +1,72 @@
+- title: UAI
+  year: 2025
+  id: uai25
+  link: https://www.auai.org/uai2025/
+  deadline: '2024-02-10 23:59:59'
+  timezone: UTC-12
+  place: Rio de Janeiro, Brazil
+  date: July 21-25, 2025
+  start: 2025-07-21
+  end: 2025-07-25
+  sub: ML
+
+- title: ICML
+  year: 2025
+  id: icml25
+  link: https://icml.cc/Conferences/2025
+  deadline: '2025-01-30 23:59:59'
+  timezone: UTC-12
+  place: Vancouver, Canada
+  date: July 13-19, 2025
+  start: 2025-07-13
+  end: 2025-07-19
+  hindex: 268
+  sub: ML
+
+- title: IJCAI
+  year: 2025
+  id: ijcai25
+  link: https://2025.ijcai.org/
+  deadline: '2025-01-23 23:59:59'
+  abstract_deadline: '2025-01-16 23:59:59'
+  timezone: UTC-12
+  place: Montreal, Canada
+  date: August 16-22, 2025
+  start: 2025-08-16
+  end: 2025-08-22
+  hindex: 136
+  sub: ML
+  note: Mandatory abstract deadline on January 16, 2025. More info <a href='https://2025.ijcai.org/'>here</a>.
+
+- title: ECML PKDD
+  full_name: European Conference on Machine Learning and Knowledge Discovery in Databases 2025
+  year: 2025
+  id: ecmlpkdd25
+  link: https://ecmlpkdd.org/2025/
+  deadline: '2024-12-13 23:59:59'
+  timezone: UTC-12
+  place: Porto, Portugal
+  date: September 15-19, 2025
+  start: 2025-09-15
+  end: 2025-09-19
+  hindex: 45
+  sub: ['ML','DM']
+  note: All deadlines expire on 23:59 AoE (UTC - 12). Submissions for Journal Tracks.
+  
+- title: ACL
+  year: 2025
+  id: acl25
+  link: https://2025.aclweb.org/
+  deadline: '2025-02-15 23:59:00'
+  timezone: UTC-12
+  place: Vienna, Austria
+  date: July 27-August 1, 2025
+  start: 2025-07-27
+  end: 2025-08-01
+  hindex: 215
+  sub: NLP
+  note: All submissions should be done through ARR. More info <a href="https://2025.aclweb.org/calls/main_conference_papers/">here</a>.
+
 - title: AISTATS
   year: 2025
   id: aistats25
