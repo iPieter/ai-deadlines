@@ -2,13 +2,13 @@
   year: 2025
   id: kr25
   link: https://kr.org/KR2025/
-  deadline: '2024-05-12 12:00:00'
-  abstract_deadline: '2024-05-07 12:00:00'
+  deadline: '2025-05-12 12:00:00'
+  abstract_deadline: '2025-05-07 12:00:00'
   timezone: UTC-0
   place: Melbourne, Australia
-  date: Nov 08-12, 2024
-  start: 2024-11-08
-  end: 2024-11-12
+  date: Nov 08-12, 2025
+  start: 2025-11-08
+  end: 2025-11-12
   sub: KR
   
 - title: UAI
