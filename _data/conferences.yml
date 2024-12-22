@@ -1,3 +1,17 @@
+- title: COLM
+  year: 2025
+  id: colm25
+  link: https://colmweb.org
+  deadline: '2025-03-27 23:59:59'
+  abstract_deadline: '2025-03-20 23:59:59'
+  timezone: UTC-12
+  place: Montreal, Canada
+  date: October 7-10, 2025
+  start: 2025-10-07
+  end: 2025-10-10
+  sub: NLP
+  note: Main conference October 7-9, workshops on October 10. Workshop proposal deadline April 14, 2025. More info at <a href='https://colmweb.org/cfw.html'>colmweb.org/cfw.html</a>.
+
 - title: UAI
   year: 2025
   id: uai25
