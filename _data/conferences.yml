@@ -228,16 +228,16 @@
 - title: LREC
   year: 2026
   id: lrec26
-  link: https://lrec2026.lrec-conf.org
+  link: https://lrec2026.info/
   deadline: '2025-10-17 23:59:59'
   timezone: UTC-12
-  place: Palma, Mallorca, Spain
+  place: Palma de Mallorca, Spain
   date: May 11-16, 2026
   start: 2026-05-11
   end: 2026-05-16
   hindex: 52
   sub: NLP
-  note: More info <a href='https://lrec2026.lrec-conf.org'>here</a>.
+  note: More info <a href='https://lrec2026.info/'>here</a>.
 
 - title: ACL
   year: 2026
