@@ -182,6 +182,65 @@
   sub: ML
   note: Abstract deadline on October 3, 2024. More info <a href='https://aistats.org/aistats2025/call-for-papers.html'>here</a>
 
+- title: CHI
+  year: 2026
+  id: chi26
+  link: https://chi2026.acm.org
+  deadline: '2025-09-11 23:59:59'
+  abstract_deadline: '2025-09-03 23:59:59'
+  timezone: UTC-12
+  place: Centre de Convencions Internacional de Barcelona, Barcelona, Spain
+  date: April 13-17, 2026
+  start: 2026-04-13
+  end: 2026-04-17
+  hindex: 168
+  sub: HCI
+  note: Mandatory abstract deadline on Sep 03, 2025. More info <a href='https://chi2026.acm.org'>here</a>.
+
+- title: ICLR
+  year: 2026
+  id: iclr26
+  link: https://iclr.cc/Conferences/2026
+  deadline: '2025-09-24 23:59:59'
+  abstract_deadline: '2025-09-19 23:59:59'
+  timezone: UTC-12
+  place: TBA
+  date: April 23-27, 2026
+  start: 2026-04-23
+  end: 2026-04-27
+  hindex: 304
+  sub: ['ML', 'AP', 'RO', 'CV', 'NLP', 'SP']
+  note: Mandatory abstract deadline on September 19, 2025. More info <a href='https://iclr.cc/Conferences/2026'>here</a>.
+
+- title: LREC
+  year: 2026
+  id: lrec26
+  link: https://lrec2026.lrec-conf.org
+  deadline: '2025-10-17 23:59:59'
+  timezone: UTC-12
+  place: Palma, Mallorca, Spain
+  date: May 11-16, 2026
+  start: 2026-05-11
+  end: 2026-05-16
+  hindex: 52
+  sub: NLP
+  note: More info <a href='https://lrec2026.lrec-conf.org'>here</a>.
+
+- title: ACL
+  year: 2026
+  id: acl26
+  link: TBA
+  deadline: '2026-01-20 23:59:59'
+  timezone: UTC-12
+  place: San Diego, CA, USA
+  date: July 2-7, 2026
+  start: 2026-07-02
+  end: 2026-07-07
+  hindex: 164
+  sub: NLP
+  note: All submissions must be done through ARR. More info will be announced soon.
+
+
 - title: CVPR
   year: 2025
   id: cvpr25
