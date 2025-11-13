@@ -213,8 +213,8 @@
 - title: EACL
   year: 2026
   id: eacl26
-  link: TBA
-  deadline: TBA
+  link: https://2026.eacl.org/calls/papers/
+  deadline: '2025-10-06 23:59:59'
   timezone: UTC-12
   place: Rabat, Morocco
   date: March 24-29, 2026
@@ -230,13 +230,13 @@
   deadline: '2025-09-24 23:59:59'
   abstract_deadline: '2025-09-19 23:59:59'
   timezone: UTC-12
-  place: TBA
+  place: Rio de Janeiro, Brazil
   date: April 23-27, 2026
   start: 2026-04-23
   end: 2026-04-27
   hindex: 304
   sub: ['ML', 'AP', 'RO', 'CV', 'NLP', 'SP']
-  note: Mandatory abstract deadline on September 19, 2025. More info <a href='https://iclr.cc/Conferences/2026'>here</a>.
+  note: More details <a href='https://iclr.cc/Conferences/2026'>here</a>.
 
 - title: LREC
   year: 2026
@@ -275,8 +275,8 @@
   timezone: UTC-12
   place: Seoul, South Korea
   date: Dates to be announced
-  start: TBA
-  end: TBA
+  start: 2026-07-07
+  end: 2026-07-12
   hindex: 268
   sub: ML
   note: More details <a href='https://icml.cc/Conferences/2026'>here</a>.
