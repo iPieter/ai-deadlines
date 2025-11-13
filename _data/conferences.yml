@@ -210,6 +210,19 @@
   sub: HCI
   note: Mandatory abstract deadline on Sep 03, 2025. More info <a href='https://chi2026.acm.org'>here</a>.
 
+- title: EACL
+  year: 2026
+  id: eacl26
+  link: TBA
+  deadline: TBA
+  timezone: UTC-12
+  place: Rabat, Morocco
+  date: March 24-29, 2026
+  start: 2026-03-24
+  end: 2026-03-29
+  sub: NLP
+  note: ARR submission deadline: 6 October 2025.
+
 - title: ICLR
   year: 2026
   id: iclr26
@@ -252,6 +265,35 @@
   hindex: 164
   sub: NLP
   note: All submissions must be done through ARR. More info will be announced soon.
+
+- title: ICML
+  year: 2026
+  id: icml26
+  link: TBA
+  deadline: '2026-01-28 23:59:59'
+  abstract_deadline: '2026-01-23 23:59:59'
+  timezone: UTC-12
+  place: Seoul, South Korea
+  date: Dates to be announced
+  start: TBA
+  end: TBA
+  hindex: 268
+  sub: ML
+  note: Abstract submission deadline: Jan 23, 2026 (Anywhere on Earth). Full paper submission deadline: Jan 28, 2026 (Anywhere on Earth). More info will be announced soon.
+
+- title: EMNLP
+  year: 2026
+  id: emnlp26
+  link: TBA
+  deadline: TBA
+  timezone: UTC-12
+  place: Budapest
+  date: October 22-29, 2026
+  start: 2026-10-22
+  end: 2026-10-29
+  hindex: 112
+  sub: NLP
+  note: More info will be announced soon.
 
 
 - title: CVPR
