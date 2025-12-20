@@ -255,8 +255,8 @@
 - title: ACL
   year: 2026
   id: acl26
-  link: TBA
-  deadline: '2026-01-20 23:59:59'
+  link: https://2026.aclweb.org/
+  deadline: '2026-01-05 23:59:59'
   timezone: UTC-12
   place: San Diego, CA, USA
   date: July 2-7, 2026
@@ -294,6 +294,37 @@
   hindex: 112
   sub: NLP
   note: More info will be announced soon.
+
+- title: IJCAI-ECAI
+  year: 2026
+  id: ijcai-ecai26
+  link: https://2026.ijcai.org/ijcai-ecai-2026-call-for-papers-main-track/
+  deadline: '2026-01-19 23:59:59'
+  abstract_deadline: '2026-01-12 23:59:59'
+  timezone: UTC-12
+  place: Bremen, Germany
+  date: August 15-21, 2026
+  start: 2026-08-15
+  end: 2026-08-21
+  hindex: 120
+  sub: AI
+  note: "Main Track. Summary reject notification: March 4, 2026. Author response: April 7-10, 2026. Notification: April 29, 2026. More info to be announced."
+
+- title: KR
+  year: 2026
+  id: kr26
+  full_name: 23rd International Conference on Principles of Knowledge Representation and Reasoning
+  link: https://kr.org/KR2026/
+  deadline: '2026-02-13 23:59:59'
+  abstract_deadline: '2026-02-08 23:59:59'
+  timezone: UTC-12
+  place: Lisbon, Portugal
+  date: July 20-23, 2026
+  start: 2026-07-20
+  end: 2026-07-23
+  hindex: 48
+  sub: AI
+  note: Main Track. Submission of title and abstract: February 8, 2026. Paper submission deadline: February 13, 2026. More info to be announced.
 
 
 - title: CVPR
