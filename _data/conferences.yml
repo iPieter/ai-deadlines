@@ -299,16 +299,16 @@
 - title: EMNLP
   year: 2026
   id: emnlp26
-  link: TBA
-  deadline: ''
+  link: https://2026.emnlp.org
+  deadline: '2026-05-25 23:59:59'
   timezone: UTC-12
-  place: Budapest
-  date: October 22-29, 2026
-  start: 2026-10-22
+  place: Budapest, Hungary
+  date: October 24-29, 2026
+  start: 2026-10-24
   end: 2026-10-29
   hindex: 112
   sub: NLP
-  note: More info will be announced soon.
+  note: All submissions should be done through ARR. Commitment deadline Aug 02, 2026. Notification of acceptance Aug 20, 2026. More info <a href="https://2026.emnlp.org">here</a>.
 
 - title: IJCAI-ECAI
   year: 2026
