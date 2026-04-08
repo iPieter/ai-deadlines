@@ -39,6 +39,21 @@
   hindex: 251
   sub: ML
 
+- title: NeurIPS
+  year: 2026
+  id: neurips26
+  link: https://neurips.cc/Conferences/2026
+  deadline: '2026-05-06 23:59:59'
+  abstract_deadline: '2026-05-04 23:59:59'
+  timezone: UTC-12
+  place: Sydney, Australia
+  date: December 6-12, 2026
+  start: 2026-12-06
+  end: 2026-12-12
+  hindex: 251
+  sub: ML
+  note: Mandatory abstract deadline on May 04, 2026. Author notifications on Sep 24, 2026.
+
 - title: COLM
   year: 2025
   id: colm25
