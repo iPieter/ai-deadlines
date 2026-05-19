@@ -238,6 +238,19 @@
   sub: NLP
   note: ARR submission
 
+- title: EACL
+  year: 2027
+  id: eacl27
+  link: https://2027.eacl.org/
+  deadline: '2026-08-03 23:59:59'
+  timezone: UTC-12
+  place: Athens, Greece
+  date: March 9-14, 2027
+  start: 2027-03-09
+  end: 2027-03-14
+  sub: NLP
+  note: ARR submission
+
 - title: ICLR
   year: 2026
   id: iclr26
