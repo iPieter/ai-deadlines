@@ -251,6 +251,21 @@
   sub: NLP
   note: ARR submission
 
+- title: FAccT
+  year: 2027
+  id: facct27
+  full_name: ACM Conference on Fairness, Accountability, and Transparency
+  link: https://facctconference.org/2027/
+  deadline: '2026-11-03 23:59:59'
+  abstract_deadline: '2026-10-27 23:59:59'
+  timezone: UTC-12
+  place: Porto, Portugal
+  date: June 21-24, 2027
+  start: 2027-06-21
+  end: 2027-06-24
+  sub: HCI
+  note: "Reviews and first-round decisions on Dec 22, 2026. Revision and rebuttal due Jan 28, 2027. Final notification March 23, 2027."
+
 - title: ICLR
   year: 2027
   id: iclr27
