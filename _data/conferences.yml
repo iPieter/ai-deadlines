@@ -266,6 +266,20 @@
   sub: HCI
   note: "Reviews and first-round decisions on Dec 22, 2026. Revision and rebuttal due Jan 28, 2027. Final notification March 23, 2027."
 
+- title: NAACL
+  year: 2027
+  id: naacl27
+  link: https://2027.naacl.org
+  deadline: '2026-10-12 23:59:59'
+  timezone: UTC-12
+  place: San Francisco, California, USA
+  date: June 1-5, 2027
+  start: 2027-06-01
+  end: 2027-06-05
+  hindex: 132
+  sub: NLP
+  note: All submissions must be done through ARR. Commitment deadline Dec 23, 2026. More info <a href='https://2027.naacl.org/calls/main_conference_papers/'>here</a>.
+
 - title: ICLR
   year: 2027
   id: iclr27
