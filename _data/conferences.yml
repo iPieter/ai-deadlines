@@ -565,3 +565,32 @@
   hindex: 212
   sub: ['DM', 'KR', 'ML', 'RO', 'NLP', 'SP', 'CV', 'CG', 'HCI', 'AP']
   note: Mandatory abstract deadline on July 21, 2026. More info <a href='https://aaai.org/conference/aaai/aaai-27/'>here</a>.
+
+- title: CVPR
+  year: 2027
+  id: cvpr27
+  link: https://cvpr.thecvf.com/Conferences/2027
+  deadline: '2026-11-16 23:59:59'
+  abstract_deadline: '2026-11-10 23:59:59'
+  timezone: UTC-12
+  place: Seattle, USA
+  date: June 20-25, 2027
+  start: 2027-06-20
+  end: 2027-06-25
+  hindex: 389
+  sub: CV
+  note: Mandatory paper registration deadline on November 10, 2026. Supplementary material due November 23, 2026. Workshops and tutorials June 20-21, main conference June 22-25. More info <a href='https://cvpr.thecvf.com/Conferences/2027/CallForPapers'>here</a>.
+
+- title: ACL
+  year: 2027
+  id: acl27
+  link: https://2027.aclweb.org/
+  deadline: '2027-01-04 23:59:59'
+  timezone: UTC-12
+  place: Kyoto, Japan
+  date: August 17-22, 2027
+  start: 2027-08-17
+  end: 2027-08-22
+  hindex: 164
+  sub: NLP
+  note: Submission through the ARR January 2027 cycle. Commitment deadline to be announced. More info <a href='https://2027.aclweb.org/calls/main/'>here</a>.
