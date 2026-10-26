@@ -594,3 +594,65 @@
   hindex: 164
   sub: NLP
   note: Submission through the ARR January 2027 cycle. Commitment deadline to be announced. More info <a href='https://2027.aclweb.org/calls/main/'>here</a>.
+
+- title: ICML
+  year: 2027
+  id: icml27
+  link: https://icml.cc/
+  deadline: '2027-01-22 23:59:59'
+  abstract_deadline: '2027-01-16 23:59:59'
+  tentative: true
+  timezone: UTC-12
+  place: South America (city TBA)
+  date: Dates to be announced
+  start: 2027-07-12
+  end: 2027-07-18
+  hindex: 268
+  sub: ML
+  note: Tentative. Deadlines are estimated from the ICML 2026 cycle; the call for papers has not been published. Conference dates are placeholders.
+
+- title: IJCAI
+  year: 2027
+  id: ijcai27
+  link: https://www.ijcai.org/future_conferences
+  deadline: '2027-01-19 23:59:59'
+  tentative: true
+  timezone: UTC-12
+  place: Kyoto, Japan & Hengqin, China
+  date: August 7-17, 2027
+  start: 2027-08-07
+  end: 2027-08-17
+  hindex: 120
+  sub: ML
+  note: Tentative. Deadline estimated from IJCAI-ECAI 2026; the call for papers has not been published (trackers report dates between Jan 4 and Jan 19). Kyoto Aug 7-13, Hengqin Aug 15-17.
+
+- title: KDD
+  year: 2027
+  id: kdd27
+  full_name: ACM Conference on Knowledge Discovery and Data Mining
+  link: https://kdd2027.kdd.org/research-track-call-for-papers/
+  deadline: '2027-02-08 23:59:59'
+  tentative: true
+  timezone: UTC-12
+  place: San Jose, USA
+  date: August 1-5, 2027
+  start: 2027-08-01
+  end: 2027-08-05
+  sub: ['ML', 'DM']
+  note: Tentative. Second-cycle deadline expected in February 2027; exact date not yet published. First cycle (paper deadline July 26, 2026) has passed.
+
+- title: ICCV
+  year: 2027
+  id: iccv27
+  link: https://thecvf.com/
+  deadline: '2027-03-08 23:59:59'
+  abstract_deadline: '2027-03-01 23:59:59'
+  tentative: true
+  timezone: UTC-12
+  place: Hong Kong
+  date: October 2-8, 2027
+  start: 2027-10-02
+  end: 2027-10-08
+  hindex: 285
+  sub: CV
+  note: Tentative. Deadlines estimated from the ICCV 2025 cycle; the call for papers has not been published.
