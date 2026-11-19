@@ -339,6 +339,21 @@
   sub: ML
   note: More details <a href='https://icml.cc/Conferences/2026'>here</a>.
 
+- title: ICML
+  year: 2027
+  id: icml27
+  full_name: International Conference on Machine Learning
+  link: https://icml.cc/Conferences/2027
+  deadline: TBA
+  timezone: UTC-12
+  place: Rio de Janeiro, Brazil
+  date: July 31 - August 6, 2027
+  start: 2027-07-31
+  end: 2027-08-06
+  hindex: 268
+  sub: ML
+  note: Submission deadline not yet announced. More details <a href='https://icml.cc/Conferences/2027'>here</a>.
+
 - title: EMNLP
   year: 2026
   id: emnlp26
