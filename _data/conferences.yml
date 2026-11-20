@@ -581,3 +581,121 @@
   hindex: 212
   sub: ['DM', 'KR', 'ML', 'RO', 'NLP', 'SP', 'CV', 'CG', 'HCI', 'AP']
   note: Mandatory abstract deadline on July 21, 2026. More info <a href='https://aaai.org/conference/aaai/aaai-27/'>here</a>.
+
+- title: ACL
+  year: 2027
+  id: acl27
+  link: https://2027.aclweb.org/
+  deadline: '2027-01-04 23:59:59'
+  timezone: UTC-12
+  place: Kyoto, Japan
+  date: August 17-22, 2027
+  start: 2027-08-17
+  end: 2027-08-22
+  hindex: 164
+  sub: NLP
+  note: All submissions must be done through ARR. Commitment deadline TBA. More info <a href='https://2027.aclweb.org/'>here</a>.
+
+- title: NAACL
+  year: 2027
+  id: naacl27
+  link: https://2027.naacl.org/
+  deadline: '2026-10-12 23:59:59'
+  timezone: UTC-12
+  place: San Francisco, CA, USA
+  date: June 1-5, 2027
+  start: 2027-06-01
+  end: 2027-06-05
+  hindex: 132
+  sub: NLP
+  note: All submissions must be done through ARR (October 2026 cycle). Commitment deadline Dec 23, 2026. Notification Feb 10, 2027. More info <a href='https://2027.naacl.org/calls/main_conference_papers/'>here</a>.
+
+- title: CVPR
+  year: 2027
+  id: cvpr27
+  link: https://cvpr.thecvf.com/Conferences/2027
+  deadline: '2026-11-16 23:59:59'
+  abstract_deadline: '2026-11-10 23:59:59'
+  timezone: UTC-12
+  place: Seattle, WA, USA
+  date: June 20-24, 2027
+  start: 2027-06-20
+  end: 2027-06-24
+  hindex: 389
+  sub: CV
+  note: Paper registration deadline Nov 10, 2026. Supplementary materials deadline Nov 23, 2026. More info <a href='https://cvpr.thecvf.com/Conferences/2027/Dates'>here</a>.
+
+- title: IJCAI
+  year: 2027
+  id: ijcai27
+  link: https://2027.ijcai.org/
+  deadline: '2027-01-11 23:59:59'
+  abstract_deadline: '2027-01-04 23:59:59'
+  timezone: UTC-12
+  place: Kyoto, Japan
+  date: August 7-13, 2027
+  start: 2027-08-07
+  end: 2027-08-13
+  hindex: 136
+  sub: ML
+  note: Abstract deadline Jan 4, 2027. Notification Apr 21, 2027. Satellite event in Hengqin, China, August 15-17, 2027. More info <a href='https://2027.ijcai.org/'>here</a>.
+
+- title: AISTATS
+  year: 2027
+  id: aistats27
+  link: https://virtual.aistats.org/Conferences/2027
+  deadline: '2026-10-06 23:59:59'
+  abstract_deadline: '2026-09-29 23:59:59'
+  timezone: UTC-12
+  place: Montréal, Canada
+  date: May 3-6, 2027
+  start: 2027-05-03
+  end: 2027-05-06
+  hindex: 100
+  sub: ML
+  note: Abstract deadline Sep 29, 2026. More info <a href='https://virtual.aistats.org/Conferences/2027/Dates'>here</a>.
+
+- title: KDD
+  year: 2027
+  id: kdd27
+  full_name: ACM Conference on Knowledge Discovery and Data Mining
+  link: https://kdd2027.kdd.org/
+  deadline: '2026-07-26 23:59:59'
+  abstract_deadline: '2026-07-19 23:59:59'
+  timezone: UTC-12
+  place: San Jose, CA, USA
+  date: August 1-5, 2027
+  start: 2027-08-01
+  end: 2027-08-05
+  sub: ['ML', 'DM']
+  note: First cycle shown (abstract Jul 19, paper Jul 26, 2026). Second cycle deadline in February 2027, exact date TBA. More info <a href='https://kdd2027.kdd.org/research-track-call-for-papers/'>here</a>.
+
+- title: CHI
+  year: 2027
+  id: chi27
+  full_name: The ACM Conference on Human Factors in Computing Systems
+  link: https://chi2027.acm.org/
+  deadline: '2026-09-10 23:59:59'
+  timezone: UTC-12
+  place: Pittsburgh, PA, USA
+  date: May 10-14, 2027
+  start: 2027-05-10
+  end: 2027-05-14
+  hindex: 122
+  sub: HCI
+  note: Papers resubmission (revise and resubmit) due Dec 3, 2026. Notification Dec 17, 2026. More info <a href='https://chi2027.acm.org/'>here</a>.
+
+- title: WWW
+  year: 2027
+  id: www27
+  full_name: The Web Conference
+  link: https://www2027.thewebconf.org/
+  deadline: '2026-10-25 23:59:59'
+  abstract_deadline: '2026-10-18 23:59:59'
+  timezone: UTC-12
+  place: Dublin, Ireland
+  date: May 10-14, 2027
+  start: 2027-05-10
+  end: 2027-05-14
+  sub: ['DM', 'ML']
+  note: Long papers shown. Short papers abstract deadline Nov 9, 2026, full paper Nov 16, 2026. More info <a href='https://www2027.thewebconf.org/research-track-papers/'>here</a>.
